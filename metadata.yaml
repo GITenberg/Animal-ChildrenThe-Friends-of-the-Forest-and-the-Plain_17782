@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '7596'
     url: http://www.gutenberg.org/2009/agents/7596
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17782#Animal-ChildrenThe-Friends-of-the-Forest-and-the-Plain
 gutenberg_bookshelf:
 - Children's Verse
 - Children's Picture Books
